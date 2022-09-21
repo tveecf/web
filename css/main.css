@@ -35,7 +35,7 @@ body.fade-out {
 }
 
 .bgday {
-    background: url("fanartday.jpg");
+    background: url("bgbit.jpg");
     position: static;
     height: 100%;
     margin: 0;
@@ -52,7 +52,7 @@ body.fade-out {
 }
 
 .bgnight {
-    background: url("fanartnight.jpg");
+    background: url("splashbit.jpg");
     position: static;
     height: 100%;
     margin: 0;
