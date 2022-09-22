@@ -31,6 +31,14 @@ $(function () {
                 color: 'linear-gradient(135deg, #4285f4, #4259f4)',
             },
             {
+                category: 'Search',
+                name: 'Yandex',
+                key: 'y',
+                url: 'https://yandex.com',
+                search: '/search?q={}',
+                color: 'linear-gradient(135deg, #4285f4, #4259f4)',
+            },
+            {
                 category: 'Work',
                 name: 'GitHub',
                 key: 'g',
