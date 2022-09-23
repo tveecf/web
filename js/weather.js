@@ -13,7 +13,7 @@ $(function() {
     var startPos;
     // Luebbecke,DE:
     var lat = 52.3097;
-    var lon = -8.6223;
+    var lon = 8.6223;
     var geoOptions = {
         maximumAge: 5 * 60 * 1000,
         timeout: 10 * 1000
